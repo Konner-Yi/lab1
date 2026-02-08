@@ -1,3 +1,5 @@
+NOTE THAT ONLY LAB1.IPYNB IS THE CODE
+
 Stop Sign Detection Dataset
 
 https://www.kaggle.com/datasets/andrewmvd/road-sign-detection
